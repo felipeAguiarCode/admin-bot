@@ -1,0 +1,98 @@
+#INFORMAÇÃO DOS CURSOS
+Nome do curso: Introdução a Engenharia de Dados
+Carga horária: 10
+Autor: 431045
+
+Aula 1: Introdução ao Curso e Conceitos Básicos //# 80 
+v1: Apresentação pessoal
+v2: Apresentação do curso
+v3: Conceito de Memória
+v4: Atribuição e Referência em Java
+v5: Conceito de nó e Encadeamento de nó
+v6: Generics em Java
+v7: Refatoração da Classe No
+a8: Introdução ao Curso e Conceitos Básicos
+g9: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula1
+
+Aula 2: Pilhas [LIFO: Last In, First Out] //# 50
+v1: Explicação teórica do conceito de Pilhas
+v2: Implementação da classe Pilha (Métodos: Top, Push e Pop )
+v3: Utilização da Classe Pilha
+a4: Pilhas [LIFO: Last In, First Out]
+g5: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula2
+
+Aula 3: Filas [FIFO: First in, First Out] //# 51
+v1: Explicação teórica do conceito de Filas
+v2: Implementação da classe Fila (Métodos: Enqueue, Dequeue)
+v3: Utilização da Classe Fila
+v4: Refatoração para embutir o nó
+v5: Refatoração para utilização de generics
+a6: Filas [FIFO: First in, First Out]
+g7: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula3
+
+Aula 4: Listas Encadeadas //# 60
+v1: Explicação teórica do conceito de Listas Encadeadas
+v2: Implementação da classe No
+v3: Implementação da classe ListaEncadeada (isEmpty e size())
+v4: Implementação da classe ListaEncadeada (add())
+v5: Implementação da classe ListaEncadeada (getNo())
+v6: Implementação da classe ListaEncadeada (get())
+v7: Implementação da classe ListaEncadeada (remove())
+v8: Implementação da classe ListaEncadeada (toString())
+v9: Utilização da Classe ListaEncadeada
+a10: Listas Encadeadas
+g11: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula4
+
+Aula 5: Listas Duplamente Encadeadas //# 60
+v1: Explicação teórica do conceito de Listas Duplamente Encadeadas
+v2: Implementação da classe NoDuplo
+v3: Implementação da classe ListaDuplamenteEncadeada (size())
+v4: Implementação da classe ListaDuplamenteEncadeada (getNo(), get())
+v5: Implementação da classe ListaDuplamenteEncadeada (add())
+v6: Implementação da classe ListaDuplamenteEncadeada (add(index))
+v7: Implementação da classe ListaDuplamenteEncadeada (remove())
+v8: Implementação da classe ListaDuplamenteEncadeada (toString())
+v9: Utilização da Classe ListaDuplamenteEncadeada
+a10: Listas Duplamente Encadeadas
+g11: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula5
+
+Aula 6: Listas Circulares  //# 60
+v1: Explicação teórica do conceito de Listas Circulares
+v2: Implementação da classe No
+v3: Implementação da classe ListaCircular (isEmpty() e size())
+v4: Implementação da classe ListaCircular (getNo() e get())
+v5: Implementação da classe ListaCircular (remove())
+v6: Implementação da classe ListaCircular (add())
+v7: Implementação da classe ListaCircular (toString())
+v8: Utilização da Classe ListaCircular
+a9: Listas Circulares
+g10: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula6
+
+Aula 7: Árvores //# 120
+v1: Explicação teórica do conceito de Árvores
+v2: Explicação teórica de Árvore de Busca Binária
+v3: A interface Comparable
+v4: Explicando operações básicas em árvores de busca binária
+v5: Explicando atravessamento em Árvores Binárias
+v6: Implementação da classe NoArvore (Nó Árvore)
+v7: Implementação da classe ArvoreBinaria - Parte 1
+v8: Implementação da classe ArvoreBinaria - Parte 2
+v9: Implementação da classe ArvoreBinaria - Parte 3
+v10: Implementação da classe ArvoreBinaria - Parte 4
+v11: Implementação da classe ArvoreBinaria - Parte 5
+v12: Implementação da classe ArvoreBinaria - Parte 6
+v13: Implementação da classe ArvoreBinaria - Parte 7
+v14: Utilização da classe ArvoreBinaria
+a15: Árvores
+g16: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula7
+
+Aula 8: Principais Implementações das estruturas de dados do Java  //# 60
+v1: Conceitos de equals e hashCode
+v2: Stack (Pilha)
+v3: Queue (Fila, LikedList)
+v4: List (ArrayList)
+v5: Set (HashSet)
+v6: Map (HashMap)
+v7: Conclusão
+a8: Principais Implementações das estruturas de dados do Java
+g9: https://github.com/jrdutra/estruturaDeDadosJavaDio/tree/main/apresentacoes/Aula8
