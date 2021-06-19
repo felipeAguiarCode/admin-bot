@@ -1,4 +1,4 @@
-const BaseService = require("./base-service")
+const BaseService = require("../core/base-service")
 
 async function create(pageNav){
 
