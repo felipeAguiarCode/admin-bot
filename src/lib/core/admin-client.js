@@ -79,6 +79,3 @@ module.exports ={
 }
 
 
-;(async()=>{
-    console.log(process.env.BASEURL)
-})()
